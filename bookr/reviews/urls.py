@@ -1,4 +1,5 @@
 from django.contrib import admin
+#from reviews.admin import admin_site 
 from django.urls import path
 from . import views
 
